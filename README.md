@@ -85,7 +85,7 @@ Este repositório no GitHub também servirá como fórum de dúvidas da discipli
 
 Se você utilizar o material desta disciplina de qualquer maneira, por favor, cite o material fonte:
 
-Iago A. Carvalho (2020), MC202. Online: https://github.com/iagoac/dce619 Version 1.00; GNU General Public License v3.0.
+Iago A. Carvalho (2021), DCE619. Online: https://github.com/iagoac/dce619 Version 1.00; GNU General Public License v3.0.
 
 
 > @Misc{CarvalhoDCE619,  
