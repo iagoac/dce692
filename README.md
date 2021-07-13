@@ -27,22 +27,22 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **27/08** - Aula 12: Discussão sobre as avaliações (Síncrona)
   - **31/08** - Aula 13: Dualidade em Programação Linear (Assíncrona)
   - **03/09** - Aula 14: Dualidade em Programação Linear - Continuação (Assíncrona)
-  - **06/09** - Aula 15: Teorema das folgas complementares (Assíncrona)
+  - **07/09** - Aula 15: Teorema das folgas complementares (Assíncrona)
   - **10/09** - Aula 16: Análise de sensibilidade em Programação Linear (Assíncrona)
-  - **13/09** - Aula 17: Análise de sensibilidade em Programação Linear - Continuação (Assíncrona)
+  - **14/09** - Aula 17: Análise de sensibilidade em Programação Linear - Continuação (Assíncrona)
   - **17/09** - Aula 18: Conceitos de otimização em redes (Assíncrona)
-  - **20/09** - Aula 19: Principais problemas de otimização em redes (Assíncrona)
+  - **21/09** - Aula 19: Principais problemas de otimização em redes (Assíncrona)
   - **24/09** - Aula 20: Algoritmo Simplex para problemas de otimização em redes (Assíncrona)
-  - **27/09** - Aula 21: Dúvidas (Síncrona)
-  - **31/09** - Aula 22: Prova 02
-  - **03/10** - Aula 23: Discussão sobre as avaliações (Síncrona)
-  - **07/10** - Aula 24: Seminários - Dia 01 (Síncrona)
-  - **10/10** - Aula 25: Seminários - Dia 02 (Síncrona)
-  - **14/10** - Aula 26: Seminários - Dia 03 (Síncrona)
-  - **17/10** - Aula 27: Seminários - Dia 04 (Síncrona)
-  - **21/10** - Aula 28: Apresentação dos trabalhos - Dia 01 (Síncrona)
-  - **24/10** - Aula 29: Apresentação dos trabalhos - Dia 02 (Síncrona)
-  - **28/10** - Aula 30: Prova especial
+  - **28/09** - Aula 21: Dúvidas (Síncrona)
+  - **01/10** - Aula 22: Prova 02
+  - **05/10** - Aula 23: Discussão sobre as avaliações (Síncrona)
+  - **08/10** - Aula 24: Seminários - Dia 01 (Síncrona)
+  - **12/10** - Aula 25: Seminários - Dia 02 (Síncrona)
+  - **15/10** - Aula 26: Seminários - Dia 03 (Síncrona)
+  - **19/10** - Aula 27: Seminários - Dia 04 (Síncrona)
+  - **22/10** - Aula 28: Apresentação dos trabalhos - Dia 01 (Síncrona)
+  - **26/10** - Aula 29: Apresentação dos trabalhos - Dia 02 (Síncrona)
+  - **29/10** - Aula 30: Prova especial
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças. 
 Entretanto, espera-se seguir a risca o planejamento realizado no início do semestre.
