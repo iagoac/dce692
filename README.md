@@ -14,7 +14,7 @@
 As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão realizadas de maneira assíncrona. Aulas de dúvidas, discussões e apresentações serão realizadas de forma síncrona. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos.
 
   - **20/07** - [Aula 01: Introdução a disciplina DCE692 (Assíncrona)](https://youtu.be/HMFxBquhfwg)
-  - **23/07** - Aula 02: Otimização linear (Assíncrona)
+  - **23/07** - [Aula 02: Otimização linear (Assíncrona)](https://youtu.be/FVb9n58pjcw)
   - **27/07** - Aula 03: Modelagem de problemas utilizando Programação Linear (Assíncrona)
   - **30/07** - Aula 04: Propriedades de problemas de Programação Linear (Assíncrona)
   - **03/08** - Aula 05: Representação gráfica de um problema de Programação Linear (Assíncrona)
