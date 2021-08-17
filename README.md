@@ -23,7 +23,7 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **10/08** - [Aula 07: Algoritmo Simplex (Assíncrona)](https://youtu.be/r-tNGh_0Oh0)
   - **13/08** - Aula 08: Algoritmo Simplex - Pivoteamento (Assíncrona)
     - [Vídeo 1](https://www.youtube.com/watch?v=OD0BVZbDieY&ab_channel=Matusal%C3%A9mVieiraMartins), [Vídeo 2](https://www.youtube.com/watch?v=n8OwjVZ60js&ab_channel=Matusal%C3%A9mVieiraMartins), [Vídeo 3](https://www.youtube.com/watch?v=RhHIechZRaE&ab_channel=AlanTelles)
-  - **17/08** - Aula 09: Algoritmo Simplex - Pontos avançados (Assíncrona)
+  - **17/08** - [Aula 09: LINGO (Assíncrona)](https://youtu.be/N3riSAaoNfU)
   - **20/08** - Aula 10: Dúvidas (Síncrona)
   - **24/08** - Aula 11: Prova 1
   - **27/08** - Aula 12: Discussão sobre as avaliações (Síncrona)
