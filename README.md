@@ -26,7 +26,7 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **17/08** - [Aula 09: LINGO (Assíncrona)](https://youtu.be/N3riSAaoNfU)
   - **20/08** - Aula 10: Dúvidas (Síncrona)
   - **24/08** - Aula 11: Prova 1
-  - **27/08** - Aula 12: Discussão sobre as avaliações (Síncrona)
+  - **27/08** - [Aula 12: Discussão sobre as avaliações (Síncrona)](https://youtu.be/0qbjLn7Ahrs)
   - **31/08** - Aula 13: Dualidade em Programação Linear (Assíncrona)
   - **03/09** - Aula 14: Dualidade em Programação Linear - Continuação (Assíncrona)
   - **07/09** - Aula 15: Teorema das folgas complementares (Assíncrona)
