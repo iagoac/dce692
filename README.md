@@ -30,6 +30,7 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **31/08** - [Aula 13: Dualidade em Programação Linear (Assíncrona)](https://youtu.be/UL6Jxrk0nhg)
   - **03/09** - [Aula 14: Dualidade em Programação Linear - Continuação (Assíncrona)](https://youtu.be/nXTQ1hVT4IE)
   - **07/09** - Aula 15: Teorema das folgas complementares (Assíncrona)
+    - [Vídeo 1](https://www.youtube.com/watch?v=4wKQ2J9H6BA&ab_channel=PedroMunari)
   - **10/09** - Aula 16: Análise de sensibilidade em Programação Linear (Assíncrona)
   - **14/09** - Aula 17: Análise de sensibilidade em Programação Linear - Continuação (Assíncrona)
   - **17/09** - Aula 18: Conceitos de otimização em redes (Assíncrona)
