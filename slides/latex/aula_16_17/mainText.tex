@@ -1,0 +1,185 @@
+\documentclass[compress,mathserif]{beamer}
+\usetheme{sthlm}
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%        LOADING BEAMER PACKAGES
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+\usepackage{
+booktabs,
+datetime,
+dtk-logos,
+graphicx,
+multicol,
+pgfplots,
+ragged2e,
+tabularx,
+tikz,
+wasysym,
+multirow,
+float,
+caption,
+subcaption,
+amsmath,
+mathptmx,
+animate
+}
+
+\usepackage[scaled=0.9]{helvet}
+\usepackage{courier}
+
+\usefonttheme[onlymath]{serif}
+
+\definecolor{mygreen}{RGB}{113, 166, 70}
+\definecolor{myblue}{RGB}{68, 140, 185}
+\definecolor{myred}{RGB}{217, 98, 55}
+\definecolor{mypurple}{RGB}{83, 65, 126}
+\definecolor{solviaveis}{RGB}{188, 207, 241}
+
+\pgfplotsset{compat=1.8}
+
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{newpxtext,newpxmath}
+\usepackage{listings}
+
+\lstset{ %
+language=[LaTeX]TeX,
+basicstyle=\normalsize\ttfamily,
+keywordstyle=,
+numbers=left,
+numberstyle=\tiny\ttfamily,
+stepnumber=1,
+showspaces=false,
+showstringspaces=false,
+showtabs=false,
+breaklines=true,
+frame=tb,
+framerule=0.5pt,
+tabsize=4,
+framexleftmargin=0.5em,
+framexrightmargin=0.5em,
+xleftmargin=0.5em,
+xrightmargin=0.5em
+}
+
+
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%        LOADING TIKZ LIBRARIES
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+\usetikzlibrary{
+backgrounds,
+mindmap
+}
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%        BEAMER OPTIONS
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+\setbeameroption{show notes}
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%        BEAMER COMMANDS
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%
+%	PRESENTATION INFORMATION
+%
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+\title{Análise de sensibilidade}
+\subtitle{DCE692 - Pesquisa Operacional}
+%\date{\small{\jobname}}
+\author{\texttt{Iago Carvalho}}
+\institute{\texttt{Departamento de Ciência da Computação}}
+
+\hypersetup{
+pdfauthor = {Iago A. Carvalho},      
+pdfsubject = {Pesquisa Operacional},
+pdfkeywords = {},  
+pdfmoddate= {D:\pdfdate},          
+pdfcreator = {WriteLaTeX}
+}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+
+\end{frame}
+
+%% --------------------------------------------------------
+
+\begin{frame}{Análise de sensibilidade}
+ 
+Na análise de sensibilidade, nós estamos interessados em investigar variações da solução ótima de um problema de programação linear
+
+\vspace{0.5cm}
+
+Também estamos interessados em analisar diferentes valores para os coeficientes do modelo
+\begin{itemize}
+    \item Matriz $A$ e vetores $b$ e $c$
+\end{itemize}
+
+\vspace{0.5cm}
+
+Variações nestes coeficientes podem ter 3 diferentes resultados
+\begin{enumerate}
+    \item A solução ótima não é alterada
+    \item A solução ótima atual torna-se inviável
+    \item É possível encontrar outra solução com valor melhor que o ótimo atual
+\end{enumerate}
+
+\end{frame}
+
+%% --------------------------------------------------------
+
+\begin{frame}{Análise de sensibilidade}
+
+Um dos objetivos da análise de sensibilidade é identificar os parâmetros sensíveis de um modelo
+\begin{itemize}
+    \item Aqueles cujos valores não podem ser alterados sem alterar a solução ótima
+\end{itemize}
+
+\vspace{0.5cm}
+
+Para os coeficientes não sensíveis $c$ da função objetivo, também é interessante identificarmos o intervalo de valores para o qual a solução objetivo permanecerá inalterada
+\begin{itemize}
+    \item O valor da solução ótima pode mudar, mas os valores das variáveis permanecem estáveis
+\end{itemize}
+\end{frame}
+
+%% --------------------------------------------------------
+
+\begin{frame}{Preço sombra}
+
+O preço sombra representa é o valor máximo que pode ser pago para dar mais folga a uma restrição
+\begin{itemize}
+    \item Equivalente a comprar unidades adicionais de algum recurso 
+\end{itemize}
+
+\vspace{0.5cm}
+
+O preço sombra é equivalente ao valor ótimo da variável dual associada a uma restrição
+
+\end{frame}
+
+%% --------------------------------------------------------
+
+\begin{frame}{Preço sombra}
+
+Existem 3 maneiras de computar o preço sombra de uma restrição
+\begin{enumerate}
+    \item Realizando algebrismos com o tableau ótimo do modelo de programação linear
+    \item Reotimizar o modelo alterando uma unidade no lado direito da restrição
+    \item Resolver o dual e verificar o valor da variável associada a restrição
+\end{enumerate}
+
+\end{frame}
+
+\end{document}
