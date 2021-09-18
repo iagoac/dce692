@@ -34,7 +34,7 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **10/09** - [Aula 16 e 17: Análise de sensibilidade em Programação Linear (Assíncrona)](https://youtu.be/VKleOZ3jq4I)
   - **14/09** - [Aula 16 e 17: Análise de sensibilidade em Programação Linear (Assíncrona)](https://youtu.be/VKleOZ3jq4I)
     - [Vídeo 1](https://youtu.be/McxwCN-w0pE), [Víveo 2](https://youtu.be/bm7gYAmjJmc), [Vídeo 3](https://estudar.com.vc/conceitos/analise-de-sensibilidade/151433-analise-de-sensibilidade)
-  - **17/09** - Aula 18: Conceitos de otimização em redes (Assíncrona)
+  - **17/09** - [Aula 18: Conceitos de otimização em redes (Assíncrona)](https://youtu.be/i4N-di7l3-U)
   - **21/09** - Aula 19: Principais problemas de otimização em redes (Assíncrona)
   - **24/09** - Aula 20: Algoritmo Simplex para problemas de otimização em redes (Assíncrona)
   - **28/09** - Aula 21: Dúvidas (Síncrona)
