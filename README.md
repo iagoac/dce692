@@ -38,14 +38,14 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **21/09** - [Aula 19: Principais problemas de otimização em redes - Caminho Mínimo e Árvore Geradora Mínima (Assíncrona)](https://youtu.be/os7PHRpishA)
   - **24/09** - Aula 20: Algoritmo Simplex para problemas de otimização em redes (Assíncrona)
   - **28/09** - Aula 21: Dúvidas (Síncrona)
-  - **01/10** - Aula 22: Prova 02
-  - **05/10** - Aula 23: Discussão sobre as avaliações (Síncrona)
+  - **01/10** - Aula 22: Tempo para estudos e preparação de seminários/trabalho
+  - **05/10** - Aula 23: Tempo para estudos e preparação de seminários/trabalho
   - **08/10** - Aula 24: Seminários - Dia 01 (Síncrona)
   - **12/10** - Aula 25: Seminários - Dia 02 (Síncrona)
-  - **15/10** - Aula 26: Seminários - Dia 03 (Síncrona)
-  - **19/10** - Aula 27: Seminários - Dia 04 (Síncrona)
-  - **22/10** - Aula 28: Apresentação dos trabalhos - Dia 01 (Síncrona)
-  - **26/10** - Aula 29: Apresentação dos trabalhos - Dia 02 (Síncrona)
+  - **15/10** - Aula 26: Feriado (Síncrona)
+  - **19/10** - Aula 27: Prova 02 (Síncrona)
+  - **22/10** - Aula 28: Seminários - Dias 03 e 04 (Síncrona)
+  - **26/10** - Aula 29: Apresentação dos trabalhos (Síncrona)
   - **29/10** - Aula 30: Prova especial
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças. 
