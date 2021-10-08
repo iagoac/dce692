@@ -41,6 +41,7 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **01/10** - Aula 22: Tempo para estudos e preparação de seminários/trabalho
   - **05/10** - Aula 23: Tempo para estudos e preparação de seminários/trabalho
   - **08/10** - Aula 24: Seminários - Dia 01 (Síncrona)
+    - [Programação Não-Linear](https://www.youtube.com/watch?v=K6l4es82Ljs)
   - **12/10** - Aula 25: Seminários - Dia 02 (Síncrona)
   - **15/10** - Aula 26: Feriado (Síncrona)
   - **19/10** - Aula 27: Prova 02 (Síncrona)
