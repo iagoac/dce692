@@ -44,6 +44,7 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
     - [Programação Linear Inteira](https://www.youtube.com/watch?v=t0pEqnkX7aw&ab_channel=WesleyVellosoMarques)
     - [Programação Não-Linear](https://www.youtube.com/watch?v=K6l4es82Ljs)
   - **12/10** - Aula 25: Seminários - Dia 02 (Síncrona)
+    - [Heurísticas e meta-heurísticas (busca local)](https://www.youtube.com/watch?v=1VjUQVp4ttg&feature=youtu.be&ab_channel=Nat%C3%A1liaMachado)
   - **15/10** - Aula 26: Feriado (Síncrona)
   - **19/10** - Aula 27: Prova 02 (Síncrona)
   - **22/10** - Aula 28: Seminários - Dias 03 e 04 (Síncrona)
