@@ -49,6 +49,7 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **15/10** - Aula 26: Feriado (Síncrona)
   - **19/10** - Aula 27: Prova 02 (Síncrona)
   - **22/10** - Aula 28: Seminários - Dias 03 e 04 (Síncrona)
+    - [Otimização multi-objetivo](https://www.youtube.com/watch?v=x-dbQkxhcmo)
     - [Teoria dos jogos](https://youtu.be/1IJSxdt4G5I)
   - **26/10** - Aula 29: Apresentação dos trabalhos (Síncrona)
   - **29/10** - Aula 30: Prova especial
