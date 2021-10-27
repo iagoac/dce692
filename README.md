@@ -50,7 +50,7 @@ As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão re
   - **19/10** - Aula 27: Prova 02 (Síncrona)
   - **22/10** - Aula 28: Seminários - Dias 03 e 04 (Síncrona)
     - [Otimização multi-objetivo](https://www.youtube.com/watch?v=x-dbQkxhcmo)
-    - [Análise Envoltória de Dados (DEA)][https://youtu.be/lF8rTzXet0s]
+    - [Análise Envoltória de Dados (DEA)](https://youtu.be/lF8rTzXet0s)
     - [Teoria dos jogos](https://youtu.be/1IJSxdt4G5I)
   - **26/10** - Aula 29: Apresentação dos trabalhos (Síncrona)
   - **29/10** - Aula 30: Prova especial
