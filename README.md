@@ -13,7 +13,7 @@
 
 As aulas serão todas ministradas presencialmente. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos. Video-aulas sobre alguns tópicos gravadas  durante a pandemia podem ser encontrados [aqui](https://github.com/iagoac/dce692/tree/main/2021).
 
-  - **15/08** - Aula 01: Introdução a disciplina DCE692
+  - **15/08** - [Aula 01: Introdução a disciplina DCE692](https://github.com/iagoac/dce692/blob/main/slides/aula_01.pdf)
   - **16/08** - Aula 02: Otimização linear
   - **22/08** - Aula 03: Modelagem de problemas utilizando Programação Linear
   - **23/08** - Aula 04: Propriedades de problemas de Programação Linear
