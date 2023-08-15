@@ -11,31 +11,27 @@
  
 #### Histórico e planejamento das aulas
 
-As aulas serão todas ministradas on-line. Aulas teóricas expositivas serão realizadas de maneira assíncrona. Aulas de dúvidas, discussões e apresentações serão realizadas de forma síncrona. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos.
+As aulas serão todas ministradas presencialmente. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos. Video-aulas sobre alguns tópicos gravadas  durante a pandemia podem ser encontrados [aqui](https://github.com/iagoac/dce692/tree/main/2021).
 
-  - **15/08** - [Aula 01: Introdução a disciplina DCE692](https://youtu.be/HMFxBquhfwg)
-  - **16/08** - [Aula 02: Otimização linear](https://youtu.be/FVb9n58pjcw)
-  - **22/08** - [Aula 03: Modelagem de problemas utilizando Programação Linear](https://youtu.be/V6WdlIATQ2s)
-  - **23/08** - [Aula 04: Propriedades de problemas de Programação Linear](https://youtu.be/PMClhVmSo5Y)
+  - **15/08** - Aula 01: Introdução a disciplina DCE692
+  - **16/08** - Aula 02: Otimização linear
+  - **22/08** - Aula 03: Modelagem de problemas utilizando Programação Linear
+  - **23/08** - Aula 04: Propriedades de problemas de Programação Linear
   - **29/08** - Aula 05: Representação gráfica de um problema de Programação Linear
-    - [Vídeo 1](https://www.youtube.com/watch?v=250FYNS-A5U&ab_channel=EaDV%C3%ADdeos), [Vídeo 2](https://www.youtube.com/watch?v=0QwcirNrU3E&ab_channel=Andr%C3%A9Brochi), [Vídeo 3](https://www.youtube.com/watch?v=sQdRu4eu910&ab_channel=Matusal%C3%A9mVieiraMartins)
-  - **30/08** - [Aula 06: Representação algébrica de um problema de Programação Linear](https://youtu.be/NHUrBKkeCYA)
-  - **05/09** - [Aula 07: Algoritmo Simplex](https://youtu.be/r-tNGh_0Oh0)
+  - **30/08** - Aula 06: Representação algébrica de um problema de Programação Linear
+  - **05/09** - Aula 07: Algoritmo Simplex
   - **06/09** - Aula 08: Algoritmo Simplex - Pivoteamento
-    - [Vídeo 1](https://www.youtube.com/watch?v=OD0BVZbDieY&ab_channel=Matusal%C3%A9mVieiraMartins), [Vídeo 2](https://www.youtube.com/watch?v=n8OwjVZ60js&ab_channel=Matusal%C3%A9mVieiraMartins), [Vídeo 3](https://www.youtube.com/watch?v=RhHIechZRaE&ab_channel=AlanTelles)
-  - **12/09** - [Aula 09: LINGO](https://youtu.be/N3riSAaoNfU)
+  - **12/09** - Aula 09: LINGO
   - **13/09** - Aula 10: Dúvidas para Prova 01
   - **19/09** - Aula 11: Prova 01
   - **20/09** - Aula 12: Discussão sobre as avaliações e disponibilização do trabalho prático
-  - **26/09** - [Aula 13: Dualidade em Programação Linear](https://youtu.be/UL6Jxrk0nhg)
-  - **27/09** - [Aula 14: Dualidade em Programação Linear - Continuação](https://youtu.be/nXTQ1hVT4IE)
+  - **26/09** - Aula 13: Dualidade em Programação Linear
+  - **27/09** - Aula 14: Dualidade em Programação Linear - Continuação
   - **03/10** - Aula 15: Teorema das folgas complementares
-    - [Vídeo 1](https://www.youtube.com/watch?v=4wKQ2J9H6BA&ab_channel=PedroMunari)
-  - **04/10** - [Aula 16: Análise de sensibilidade em Programação Linear](https://youtu.be/VKleOZ3jq4I)
-  - **10/10** - [Aula 17: Análise de sensibilidade em Programação Linear - Continuação](https://youtu.be/VKleOZ3jq4I)
-    - [Vídeo 1](https://youtu.be/McxwCN-w0pE), [Víveo 2](https://youtu.be/bm7gYAmjJmc), [Vídeo 3](https://estudar.com.vc/conceitos/analise-de-sensibilidade/151433-analise-de-sensibilidade)
-  - **11/10** - [Aula 18: Conceitos de otimização em redes](https://youtu.be/i4N-di7l3-U)
-  - **17/10** - [Aula 19: Principais problemas de otimização em redes - Caminho Mínimo e Árvore Geradora Mínima](https://youtu.be/os7PHRpishA)
+  - **04/10** - Aula 16: Análise de sensibilidade em Programação Linear
+  - **10/10** - Aula 17: Análise de sensibilidade em Programação Linear - Continuação
+  - **11/10** - Aula 18: Conceitos de otimização em redes
+  - **17/10** - Aula 19: Principais problemas de otimização em redes - Caminho Mínimo e Árvore Geradora Mínima
   - **18/10** - Aula 20: Algoritmo Simplex para problemas de otimização em redes
   - **24/10**   Aula 21: Tempo para estudos e preparação de seminários/trabalho
   - **25/10** - Aula 22: Dúvidas para Prova 02
