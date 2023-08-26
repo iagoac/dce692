@@ -17,7 +17,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **16/08** - [Aula 02: Otimização linear](https://github.com/iagoac/dce692/blob/main/slides/aula_02.pdf)
   - **22/08** - [Aula 03: Modelagem de problemas utilizando Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_03.pdf)
   - **23/08** - [Aula 04: Propriedades de problemas de Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_04.pdf)
-  - **29/08** - Aula 05: Representação gráfica de um problema de Programação Linear
+  - **29/08** - [Aula 05: Representação gráfica de um problema de Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_05.pdf)
+    - [Vídeo 1](https://www.youtube.com/watch?v=0QwcirNrU3E&ab_channel=Andr%C3%A9Brochi), [Vídeo 2](https://www.youtube.com/watch?v=sQdRu4eu910&ab_channel=Matusal%C3%A9mVieiraMartins)
   - **30/08** - Aula 06: Representação algébrica de um problema de Programação Linear
   - **05/09** - Aula 07: Algoritmo Simplex
   - **06/09** - Aula 08: Algoritmo Simplex - Pivoteamento
