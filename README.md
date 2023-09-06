@@ -21,7 +21,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
     - [Vídeo 1](https://www.youtube.com/watch?v=0QwcirNrU3E&ab_channel=Andr%C3%A9Brochi), [Vídeo 2](https://www.youtube.com/watch?v=sQdRu4eu910&ab_channel=Matusal%C3%A9mVieiraMartins)
   - **30/08** - [Aula 06: Representação algébrica de um problema de Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_06.pdf)
   - **05/09** - [Aula 07: Algoritmo Simplex](https://github.com/iagoac/dce692/blob/main/slides/aula_07.pdf)
-  - **06/09** - Aula 08: Exercícios em sala
+  - **06/09** - [Aula 08: Exercícios em sala](https://github.com/iagoac/dce692/blob/main/slides/aula_08.pdf)
   - **12/09** - Aula 09: Python-MIP (Laboratório B-208)
   - **13/09** - Aula 10: Dúvidas para Prova 01
   - **19/09** - Aula 11: Prova 01
