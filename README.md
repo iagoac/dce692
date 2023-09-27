@@ -25,7 +25,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **12/09** - [Aula 09: Python-MIP (Laboratório B-208)](https://github.com/iagoac/dce692/python-mip)
   - **13/09** - Aula 10: Dúvidas para Prova 01
   - **19/09** - Aula 11: Disponibilização do trabalho prático
-  - **20/09** - Aula 12: Prova 01
+  - **20/09** - Aula 12: [Prova 01](https://github.com/iagoac/dce692/blob/main/provas/prova_01.pdf)
   - **26/09** - [Aula 13: Dualidade em Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_03.pdf)
   - **27/09** - [Aula 14: Dualidade em Programação Linear - Continuação](https://github.com/iagoac/dce692/blob/main/slides/aula_14.pdf)
   - **03/10** - Aula 15: Teorema das folgas complementares
