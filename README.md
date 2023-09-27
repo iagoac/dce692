@@ -22,12 +22,12 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **30/08** - [Aula 06: Representação algébrica de um problema de Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_06.pdf)
   - **05/09** - [Aula 07: Algoritmo Simplex](https://github.com/iagoac/dce692/blob/main/slides/aula_07.pdf)
   - **06/09** - [Aula 08: Exercícios em sala](https://github.com/iagoac/dce692/blob/main/slides/aula_08.pdf)
-  - **12/09** - [Aula 09: Python-MIP (Laboratório B-208)]([https://github.com/iagoac/dce692/python-mip](https://github.com/iagoac/dce692/tree/main/python-mip))
+  - **12/09** - [Aula 09: Python-MIP (Laboratório B-208)](https://github.com/iagoac/dce692/python-mip)
   - **13/09** - Aula 10: Dúvidas para Prova 01
   - **19/09** - Aula 11: Disponibilização do trabalho prático
   - **20/09** - Aula 12: Prova 01
-  - **26/09** - Aula 13: Dualidade em Programação Linear
-  - **27/09** - Aula 14: Dualidade em Programação Linear - Continuação
+  - **26/09** - [Aula 13: Dualidade em Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_03.pdf)
+  - **27/09** - [Aula 14: Dualidade em Programação Linear - Continuação](https://github.com/iagoac/dce692/blob/main/slides/aula_14.pdf)
   - **03/10** - Aula 15: Teorema das folgas complementares
   - **04/10** - Aula 16: Análise de sensibilidade em Programação Linear
   - **10/10** - Aula 17: Análise de sensibilidade em Programação Linear - Continuação
