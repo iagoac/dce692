@@ -6,12 +6,12 @@ Este seminário deve ser realizado em grupos de dois ou três integrantes. O obj
 Dentre os tópicos disponíveis, podemos listar
  - Programação não-linear
  - Programação inteira
- - Algoritmo _branch-and-bound_
- - Análise Envoltória de Dados (DEA)
- - Teoria dos jogos
+ - Algoritmo _branch-and-bound_ (Mateus, Bruno, Luis)
+ - Análise Envoltória de Dados (DEA) (Cassia, ...)
+ - Teoria dos jogos (Felipe Baldim, Assussena, Paulo Cesar)
  - Otimização estocástica
- - Otimização dinâmica
- - Heurísticas
+ - Otimização dinâmica (Lucas Ferreira, Vinicius Eduardo, Natan)
+ - Heurísticas (Vinicius Bueno, Vinicius Silveira)
 
 Outros tópicos também podem ser definidos entre o professor e o grupo.
 
