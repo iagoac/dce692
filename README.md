@@ -28,11 +28,11 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **20/09** - Aula 12: [Prova 01](https://github.com/iagoac/dce692/blob/main/provas/prova_01.pdf)
   - **26/09** - [Aula 13: Dualidade em Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_03.pdf)
   - **27/09** - [Aula 14: Dualidade em Programação Linear - Continuação](https://github.com/iagoac/dce692/blob/main/slides/aula_14.pdf)
-  - **03/10** - Aula 15: Teorema das folgas complementares
-  - **04/10** - Aula 16: Análise de sensibilidade em Programação Linear
-  - **10/10** - Aula 17: Análise de sensibilidade em Programação Linear - Continuação
+  - **03/10** - [Aula 15: Análise de sensibilidade em Programação Linear](https://github.com/iagoac/dce692/blob/main/slides/aula_15.pdf)
+  - **04/10** - Aula 16: Análise de sensibilidade em Programação Linear - Continuação
+  - **10/10** - Aula 17: Exercícios
   - **11/10** - Aula 18: Conceitos de otimização em redes
-  - **17/10** - Aula 19: Principais problemas de otimização em redes - Caminho Mínimo e Árvore Geradora Mínima
+  - **17/10** - Aula 19: Principais problemas de otimização em redes - Caminho Mínimo, Árvore Geradora Mínima e Fluxo Máximo
   - **18/10** - Aula 20: Algoritmo Simplex para problemas de otimização em redes
   - **24/10**   Aula 21: Tempo para estudos e preparação de seminários/trabalho
   - **25/10** - Aula 22: Dúvidas para Prova 02
