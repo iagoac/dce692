@@ -32,8 +32,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **04/10** - [Aula 16: Análise de sensibilidade em Programação Linear - Continuação](https://github.com/iagoac/dce692/blob/main/slides/aula_16.pdf)
   - **10/10** - Sem aula
   - **11/10** - Sem aula
-  - **17/10** - [Aula 17: Conceitos de otimização em redes (Online assíncrona)](https://github.com/iagoac/dce692/blob/main/slides/aula_17.pdf)
-  - **18/10** - [Aula 18: Principais problemas de otimização em redes - Fluxo (Online assíncrona)](https://github.com/iagoac/dce692/blob/main/slides/aula_18.pdf)
+  - **17/10** - [Aula 17: Conceitos de otimização em redes](https://github.com/iagoac/dce692/blob/main/slides/aula_17.pdf)
+  - **18/10** - [Aula 18: Principais problemas de otimização em redes - Fluxo](https://github.com/iagoac/dce692/blob/main/slides/aula_18.pdf)
   - **24/10** - Sem aula
   - **25/10** - [Aula 19: Principais problemas de otimização em redes - Caminho Mínimo e Árvore Geradora Mínima](https://github.com/iagoac/dce692/blob/main/slides/aula_19.pdf)
   - **31/10** - Aula 20: Exercícios e dúvdas para Prova 02 
