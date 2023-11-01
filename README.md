@@ -37,7 +37,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **24/10** - Sem aula
   - **25/10** - [Aula 19: Principais problemas de otimização em redes - Caminho Mínimo e Árvore Geradora Mínima](https://github.com/iagoac/dce692/blob/main/slides/aula_19.pdf)
   - **31/10** - Aula 20:  Tempo para preparação do trabalho prático e seminários
-  - **01/11** - Aula 21: Exercícios e dúvdas para Prova 02
+  - **01/11** - [Aula 21: Exercícios e dúvdas para Prova 02](https://github.com/iagoac/dce692/blob/main/slides/aula_121.pdf)
   - **07/11** - Aula 22: Tempo para preparação do trabalho prático e seminários
   - **08/11** - Aula 23: Tempo para preparação do trabalho prático e seminários
   - **14/11** - Aula 24: Prova 02
