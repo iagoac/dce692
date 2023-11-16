@@ -36,7 +36,7 @@ Além deste arquivo, cada grupo deverá entregar também um relatório, em forma
 
 ## Método de entrega 
 
-Todos os arquivos deverão ser entregues no Moodle da disciplina até às 23h59 do dia 14/11.
+Todos os arquivos deverão ser entregues no [Moodle da disciplina](https://ead.unifal-mg.edu.br/moodle2/mod/assign/view.php?id=374110&forceview=1) até às 23h59 do dia 19/11.
 
 ## Método de avaliação
 
