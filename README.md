@@ -41,7 +41,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **07/11** - Aula 22: Tempo para preparação do trabalho prático e seminários
   - **08/11** - Aula 23: Tempo para preparação do trabalho prático e seminários
   - **14/11** - Aula 24: Prova 02
-  - **16/11** - Aula 25: Entrega do trabalho prático
+  - **19/11** - [Aula 25: Entrega do trabalho prático](https://ead.unifal-mg.edu.br/moodle2/mod/assign/view.php?id=374110&forceview=1)
   - **21/11** - Aula 26: Prova substitutiva/reposição
   - **22/11** - Aula 27: Seminários - Dia 01
   - **28/11** - Aula 28: Seminários - Dia 02
