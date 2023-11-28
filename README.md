@@ -43,10 +43,10 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **14/11** - Aula 24: Prova 02
   - **19/11** - [Aula 25: Entrega do trabalho prático](https://ead.unifal-mg.edu.br/moodle2/mod/assign/view.php?id=374110&forceview=1)
   - **21/11** - Aula 26: Prova substitutiva/reposição
-  - **22/11** - Aula 27: Seminários - Dia 01
-  - **28/11** - Aula 28: Seminários - Dia 02
-  - **29/11** - Aula 29: Seminários - Dia 03
-  - **06/12** - Aula 30: Recuperação de aprendizagem
+  - **28/11** - Aula 27: Seminários - Dia 01
+  - **06/12** - Aula 28: Seminários - Dia 02
+  - **12/12** - Aula 28: Seminários - Dia 03
+  - **13/12** - Aula 30: Recuperação de aprendizagem
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças. 
 Entretanto, espera-se seguir a risca o planejamento realizado no início do semestre.
